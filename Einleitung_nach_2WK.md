@@ -1,7 +1,7 @@
 Nach dem Zweiten Weltkrieg
 
 
-Auch wenn es während dem Zweiten Weltkrieg durchaus einige Komplikationen, was die Zusammenarbeit der drei Großmächte Sowjetunion, den USA und Großbritanniens betrifft, gegeben hat, so kann der Erfolg der Großen Allianz nicht verleugnet werden. Wie konnte es also dazu kommen, dass eben diese Großmächte sich nur so kurze Zeit nach einem siegreichen aber verlustreichen Krieg so feindlich gegenüber standen?
+Auch wenn es während dem Zweiten Weltkrieg durchaus einige Komplikationen, was die Zusammenarbeit der drei Großmächte Sowjetunion, den USA und Großbritanniens betrifft, gegeben hat, so kann der Erfolg der Großen Allianz nicht verleugnet werden. Wie konnte es also dazu kommen,dass eben diese Großmächte sich nur so kurze Zeit nach einem siegreichen aber verlustreichen Krieg so feindlich gegenüber standen?
 
 Die Antwort lässt sich zum Einen in der Vorgeschichte der Beziehungen zwischen den Staaten finden, ist aber zum anderen darin zu suchen, was den Erfolg und das Zustandekommen dieser ungewöhnlichen Allianz ermöglicht hat. Denn, keineswegs standen sich die Supermächte vor und während dem Zweiten Weltkrieg freundlich gegenüber. Unterschiedliche ideologische Ansprüche und Wahrnehmungen, wie die Welt aufgebaut und regiert werden sollte, gab es eindeutig schon lange vor dem Krieg. Trotzdem war die Große Allianz möglich und zwar aus dem Grund, "dass unvereinbare Systeme vereinbare Ziele verfolgten" (John Lewis Gaddis, Der Kalte Krieg Eine Neue Geschichte; S.18).
 
@@ -27,7 +27,7 @@ Andrerseits erkannte Roosevelt mit Blick in die Zukunft, dass das Verhältnis zw
 
 Die Konferenz von Jalta
 
-Während die Supermächte sich bei der Außenminister Konferenz in Moskau noch kooperativ zeigten, sodass Anzeichen eines baldigen Auseinanderbrechens der Allianz nur schwer erkennbar waren, so ist es auf der Konferenz von Jalta schon um einiges deutlicher. Obwohl in den letzten Zügen des Zweiten Weltkriegs, die Zusammenarbeit der drei Mächte so eng gewesen ist wie nie zuvor, vergrößerte sich auch das Misstrauen zwischen ihnen. Während der Konferenz von Jalta wurden zwei Probleme deutlich, welche vorher nicht existierten oder in diesem Maß keine große Rolle gespielt haben. 
+Während die Supermächte sich bei der Außenminister Konferenz in Moskau noch kooperativ zeigten, sodass Anzeichen eines baldigen Auseinanderbrechens der Allianz nur schwer erkennbar waren, so ist es auf der Konferenz von Jalta schon um einiges deutlicher. Obwohl in den letzten Zügen des Zweiten Weltkriegs, die Zusammenarbeit der drei Mächte so eng gewesen ist wie nie zuvor, vergrößerte sich auch das Misstrauen zwischen ihnen. Während der Konferenz von Jalta wurden zwei Probleme deutlich, welche vorher nicht existierten oder in diesem Maß keine große Rolle gespielt haben.
 
 Zum einen wurde nun offensichtlich, dass die Interessen der Großmächte für die Zukunft nicht kompatibel waren. Dies zeigte sich wieder ein Mal am Besten an den unterschiedlichen Vorstellung von Nachkriegs-Deutschland. Stalins Forderungen nach einer Zerstückelung Deutschlands und hohen Reparationszahlungen konnten nicht mit der amerikanischen und britischen Angst vor einem Macht-Vakuum sowie einem wirtschaftlich zu stark von seinen Nachbarländern abhängigen Deutschland in Einklang gebracht werden.
 
