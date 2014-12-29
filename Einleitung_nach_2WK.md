@@ -1,27 +1,34 @@
 Nach dem Zweiten Weltkrieg
-Auch wenn es während dem Zweiten Weltkrieg durchaus einige Komplikationen,
-was die Zusammenarbeit der drei Großmächte Sowjetunion, den USA
-und Großbritanniens betrifft, gegeben hat, so kann der Erfolg der Großen Allianz
-nicht verleugnet werden. Wie konnte es also dazu kommen, dass eben diese
-Großmächte sich nur so kurze Zeit nach einem siegreichen aber verlustreichen
-Krieg so feindlich gegenüber standen?
-Die Antwort lässt sich zum Einen in der Vorgeschichte der Beziehungen zwischen
-den Staaten finden, ist aber zum anderen darin zu suchen, was den Erfolg und das
-Zustandekommen dieser ungewöhnlichen Allianz ermöglicht hat. Denn, keineswegs
-standen sich die Supermächte vor und während dem Zweiten Weltkrieg freundlich
-gegenüber. Unterschiedliche ideologische Ansprüche und Wahrnehmungen, wie die
-Welt aufgebaut und regiert werden sollte, gab es eindeutig schon lange vor dem
-Krieg. Trotzdem war die Große Allianz möglich und zwar aus dem Grund,
-"dass unvereinbare Systeme vereinbare Ziele verfolgten" (John Lewis Gaddis,
-Der Kalte Krieg Eine Neue Geschichte; S.18).
-Schon während des Zweiten Weltkriegs waren die Unterschiede zwischen den
-Mitgliedern der Großen Allianz deutlich zu spüren. Dennoch war durch einen
-gemeinsamen Feind, das Dritte Reich, der Grund für die Kooperation geschaffen
-worden, auf dem sich aufbauen ließ. Daher ist es eigentlich nicht verwunderlich,
-dass die freundliche Gesinnung der Partner, nachdem die Basis ihrer
-Verhandlungen mit dem Ende des Zweiten Weltkriegs verschwand, zu einem Ende kam.
-Doch auch schon zum Ende des Zweiten Weltkriegs machten sich die
-Interessensunterschiede der Weltmächte immer deutlicher bemerkbar, vor allem
-in Bezug auf die jeweilig angestrebte Nachkriegsordnung. Besonders deutlich
-wurden die Unterschiede auf der Konferenz von Moskau, der Konferenz von Teheran
-und der Konferenz von Jalta.
+
+
+Auch wenn es während dem Zweiten Weltkrieg durchaus einige Komplikationen, was die Zusammenarbeit der drei Großmächte Sowjetunion, den USA und Großbritanniens betrifft, gegeben hat, so kann der Erfolg der Großen Allianz nicht verleugnet werden. Wie konnte es also dazu kommen, dass eben diese Großmächte sich nur so kurze Zeit nach einem siegreichen aber verlustreichen Krieg so feindlich gegenüber standen?
+
+Die Antwort lässt sich zum Einen in der Vorgeschichte der Beziehungen zwischen den Staaten finden, ist aber zum anderen darin zu suchen, was den Erfolg und das Zustandekommen dieser ungewöhnlichen Allianz ermöglicht hat. Denn, keineswegs standen sich die Supermächte vor und während dem Zweiten Weltkrieg freundlich gegenüber. Unterschiedliche ideologische Ansprüche und Wahrnehmungen, wie die Welt aufgebaut und regiert werden sollte, gab es eindeutig schon lange vor dem Krieg. Trotzdem war die Große Allianz möglich und zwar aus dem Grund, "dass unvereinbare Systeme vereinbare Ziele verfolgten" (John Lewis Gaddis, Der Kalte Krieg Eine Neue Geschichte; S.18).
+
+Schon während des Zweiten Weltkriegs waren die Unterschiede zwischen den Mitgliedern der Großen Allianz deutlich zu spüren. Dennoch war durch einen gemeinsamen Feind, das Dritte Reich, der Grund für die Kooperation geschaffen worden, auf dem sich aufbauen ließ. Daher ist es eigentlich nicht verwunderlich, dass die freundliche Gesinnung der Partner, nachdem die Basis ihrer Verhandlungen mit dem Ende des Zweiten Weltkriegs verschwand, zu einem Ende kam. Doch auch schon zum Ende des Zweiten Weltkriegs machten sich die Interessensunterschiede der Weltmächte immer deutlicher bemerkbar, vor allem in Bezug auf die jeweilig angestrebte Nachkriegsordnung. Besonders deutlich wurden die Unterschiede auf der Konferenz von Moskau, der Konferenz von Teheran und der Konferenz von Jalta.
+
+Die Außenminister-Konferenz von Moskau
+
+In diesem ersten Zusammentreffen der drei Supermächte ( in Form der jeweiligen Außenminister Eden (GB), Hull (USA) und Molotow (UdSSR)) zeigten sich diese noch weitgehend kooperativ. So wurde unter anderem zum Beispiel beschlossen, dass die Allianz auch nach Beendigung des Kriegs weiterhin bestehen sollte und bis zur restlosen Kapitulation des Dritten Reichs und dessen Alliierten auch weiterhin militärisch zusammenarbeiten würde. Desweiteren wurde der Grundbaustein für die Vereinten Nationen gelegt und Übereinkünfte getroffen, die sich mit Italien und Österreich auseinander setzten.
+
+Auch Deutschland war Gegenstand der Verhandlung, allerdings verliefen diese in diesem Bereich nicht ganz so harmonisch. Auf grundlegende Dinge, wie die Verfolgung deutscher Kriegsverbrecher und die Entmilitarisierung, Entnazifizierung und Demokratisierung Deutschlands wurde sich geeinigt, aber das Diskutieren konkreter Pläne (vor allem in territorialen Fragen) für die Nachkriegszeit wurde nach hinten verschoben, indem die EAC (European Advisory Commission) gegründet wurde. Hauptaufgabe dieser war es, in Fragen der Verwaltung und Besetzung Deutschlands durch die alliierten Mächte zu beraten, da es vor allem hier verschiedene Vorstellungen der Partner gab.
+
+Doch auch auf anderen Gebieten gab es Uneinigkeiten, wie zum Beispiel der Unabhängigkeit Polens. Während Eden diese befürwortete, stand Stalin dieser feindlich gegenüber, da er selbst hegemoniale Ansprüche auf das Gebiet Polens hegte. Auch weil Hull es verpasste Eden, dessen Forderung es war die polnische Exilregierung in London anzuerkennen, zu unterstützen, zeichneten sich Spannungen auf diesem Gebiet ab, was dazu führte, dass noch eine weitere Konferenz einberufen wurde, um sich eingehender mit eben diesem Thema zu beschäftigen. Diese war die Konferenz von Teheran.
+
+Die Konferenz von Teheran
+
+Sowohl Roosevelt als auch Churchill befürchteten in Stalin einen undurchsichtigen und schwierigen Verhandlungspartner gewonnen zu haben und waren deswegen durch dessen Offenheit und offenkundigen Willen zu Verhandlungen überrascht und positiv gestimmt. Dadurch gelang es vor allem Roosevelt und Stalin, welche die Verhandlungen gegenüber Churchill klar dominierten, wichtige Übereinkünfte zu treffen. Gegenstand der Konferenz von Teheran war die Frage nach der Verwaltung Deutschlands nach dem Zweiten Weltkrieg und die Situation Polens.
+
+Während Stalin und Roosevelt nach außen hin relativ unkompliziert zu Übereinkünften kamen, zeichnete sich bereits auf dieser Konferenz zukünftiges Konfliktpotenzial ab. So realisierte Stalin die fundamentalen Unterschiede zwischen seinen Vorstellungen und den westlichen Prinzipien vertreten durch seine Verhandlungspartner, den USA und Großbritannien. Entgegen der kurz zuvor von Roosevelt und Churchill unterzeichneten Atlantic Charta plante er eine territoriale Ausweitung der Sowjetunion und das Einsetzen pro-sowjetischer Regierungen in den angrenzenden Staaten.
+
+Trotzdem verliefen die Verhandlungen gut, was auch daran gelegen haben mag, dass Roosevelt versuchte, Stalin möglichst viel zuzugestehen. So fügte er sich dessen Forderungen nach einer Zerstückelung Deutschlands nach dem Zweiten Weltkriegs und machte ihm Zugeständnisse was den Grenzverlauf Polens betraf. Dies hatte vor allem zwei Gründe: Zum einen war sich der amerikanische Präsident darüber bewusst, dass auch nach einem Sieg über Deutschland, sowjetische Unterstützung im asiatischen Gebiet dringend benötigt wurde.
+
+Andrerseits erkannte Roosevelt mit Blick in die Zukunft, dass das Verhältnis zwischen der Sowjetunion und den USA für den Weltfrieden nach dem Zweiten Weltkrieg essentiell sein würde.
+
+Die Konferenz von Jalta
+
+Während die Supermächte sich bei der Außenminister Konferenz in Moskau noch kooperativ zeigten, sodass Anzeichen eines baldigen Auseinanderbrechens der Allianz nur schwer erkennbar waren, so ist es auf der Konferenz von Jalta schon um einiges deutlicher. Obwohl in den letzten Zügen des Zweiten Weltkriegs, die Zusammenarbeit der drei Mächte so eng gewesen ist wie nie zuvor, vergrößerte sich auch das Misstrauen zwischen ihnen. Während der Konferenz von Jalta wurden zwei Probleme deutlich, welche vorher nicht existierten oder in diesem Maß keine große Rolle gespielt haben. 
+
+Zum einen wurde nun offensichtlich, dass die Interessen der Großmächte für die Zukunft nicht kompatibel waren. Dies zeigte sich wieder ein Mal am Besten an den unterschiedlichen Vorstellung von Nachkriegs-Deutschland. Stalins Forderungen nach einer Zerstückelung Deutschlands und hohen Reparationszahlungen konnten nicht mit der amerikanischen und britischen Angst vor einem Macht-Vakuum sowie einem wirtschaftlich zu stark von seinen Nachbarländern abhängigen Deutschland in Einklang gebracht werden.
+
+Zum anderen wurde ein Ungleichgewicht zwischen den Parteien deutlich. Der Westen erkannte, welche verhältnismäßig kleine Rolle er auf dem europäischen Kontinent spielte und in Zukunft spielen würde. Hierbei sorgte vor allem das Bestehen der Sowjetunion auf einem pro-sowjetischen Regime in Warschau für westliche Proteste. Die Einigungen in dieser Frage sahen dementsprechend vage aus und vergrößerten das Konfliktpotenzial.
