@@ -21,15 +21,16 @@ Aufgrund der eingeschränkten Souveränität Vietnams, die damit einher ging, en
 
 Im französisch-chinesischen Krieg konnte Frankreich 1885 das Gebiet Tonkin endgültig für sich gewinnen und den Konkurrenten China zur Anerkennung der französischen Oberhoheit über Vietnam bewegen.
 
-Damit war der Grundstein für eine französiche Direktherrschaft in Vietnam gelegt, denn das war der Anspruch der Kolonialmacht. Mit der Gründung der Indochinesischen Union 1887 zwang man den Kaiser seine Herrscherrechte an einen Vizekönig abzugeben, der unter französischer Verwaltung stand.
+Damit war der Grundstein für eine französiche Direktherrschaft in Vietnam gelegt, denn das war der Anspruch der Kolonialmacht.
+Mit der Gründung der Indochinesischen Union 1887 zwang man den Kaiser seine Herrscherrechte an einen Vizekönig abzugeben, der unter französischer Verwaltung stand.
 Nachdem zunächst aller Widerstand gebrochen war, verfolgte Frankreich das Ziel der Direktherrschaft weiter und begann mit der systematischen Kolonisierung Vietnams.
 Die Verwaltung wurde zentralisiert und an der Spitze Indochinas ein französischer Generalgouverneur eingesetzt.
 Der für Frankreich bedeutendste Generalgouverneur war Paul Doumer, unter dessen  Regentschaft (1897-1902) Indochina zur profitabelsten Kolonie Frankreichs wurde.
-Der ehemalige Finanzminister Frankreichs baute eine zentrale Verwaltung auf, die zusätzlich zu einem System der Zwangsarbeit (corvée) die dörfliche Autonomie stark einschränkte, er schottete zudem den Binnenmarkt ab, sodass ausschließlich vietnamesische und französische Produkt erhältlich waren und trieb gleichzeitig den Export enorm voran:
+Der ehemalige Finanzminister Frankreichs baute eine zentrale Verwaltung auf, die zusätzlich zu einem System der Zwangsarbeit (corvée) die dörfliche Autonomie stark einschränkte, er schottete zudem den Binnenmarkt ab, sodass ausschließlich vietnamesische und französische Produkte erhältlich waren und trieb gleichzeitig den Export enorm voran:
 Die erste Opiumfabrik wurde in Saigon eröffnet, wodurch ein Viertel der Einnahmen generiert wurden und der Reisanbau wurde massiv vorangetrieben, sodass Indochina im Jahr 1939 der drittgrößte Reisexporteur der Welt war.
 Das zweitwichtigste Exportgut wurde Kautschuk, welches auf riesigen Plantagen angebaut wurde.
 Damit einher ging der Bau von Kanälen, Eisenbahnen und Straßen, wobei die mittellose Landbevölkerung als billige Arbeitskräfte genutzt wurde.
 
 Bis zum Ersten Weltkrieg hatten diese Maßnahmen tiefgreifende Veränderungen im Sozialgefüge zur Folge.
 
-Während die relativ kleine städtische Bevölkerung sich zunehmend am Katholizismus und der westlichen Kultur, die, samt Schriftzeichen, durch die französische Kolonialherrschaft in Vietnam ankam, orientierte, tat sich die ländliche Bevölkerung schwer mit der Umstellung und in der vietnamesischen Bildungselite wuchs der Widerstand gegen die Kolonialherrschaft.
+Während die relativ kleine städtische Bevölkerung sich zunehmend am Katholizismus und der westlichen Kultur, die, samt Schriftzeichen und Bildungssystem, durch die französische Kolonialherrschaft in Vietnam ankam, orientierte, tat sich die ländliche Bevölkerung schwer mit der Umstellung und in der vietnamesischen Bildungselite wuchs der Widerstand gegen die Kolonialherrschaft.
