@@ -31,6 +31,6 @@ Die erste Opiumfabrik wurde in Saigon eröffnet, wodurch ein Viertel der Einnahm
 Das zweitwichtigste Exportgut wurde Kautschuk, welches auf riesigen Plantagen angebaut wurde.
 Damit einher ging der Bau von Kanälen, Eisenbahnen und Straßen, wobei die mittellose Landbevölkerung als billige Arbeitskräfte genutzt wurde.
 
-Bis zum Ersten Weltkrieg hatten diese Maßnahmen tiefgreifende Veränderungen im Sozialgefüge zur Folge.
-
-Während die relativ kleine städtische Bevölkerung sich zunehmend am Katholizismus und der westlichen Kultur, die, samt Schriftzeichen und Bildungssystem, durch die französische Kolonialherrschaft in Vietnam ankam, orientierte, tat sich die ländliche Bevölkerung schwer mit der Umstellung und in der vietnamesischen Bildungselite wuchs der Widerstand gegen die Kolonialherrschaft.
+Bis zum Ersten Weltkrieg hatten die verbesserte Infrastruktur, Geld- und Kolonialwirtschaft sowie der Aufbau eine französisch geprägten Bildungssytems tiefgreifende Veränderungen im Sozialgefüge zur Folge.
+Während die relativ kleine städtische Bevölkerung, die wirtschaftlichen Nutzen aus diesen Entwicklungen trug, sich zunehmend am Katholizismus und der westlichen Kultur und Bildung, die in Vietnam ankam, orientierte, tat sich die ländliche Bevölkerung schwer mit der Umstellung und schwebte zwischen den Welten.
+Innerhalb der vergleichsweise kleinen vietnamesischen Bildungselite wuchs der Widerstand gegen die Kolonialherrschaft jedoch stetig.
