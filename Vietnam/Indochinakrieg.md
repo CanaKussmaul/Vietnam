@@ -1,5 +1,6 @@
-## Beginn Indochinakrieg
+## Indochinakrieg
 
+### Beginn
 
 Unter Roosevelts Administration im Zweiten Weltkrieg drängten die USA auf die schrittweise Unabhängigkeit der europäischen Kolonien.
 Die Kolonialmächte Großbritannien, Frankreich und die Niederlande erachteten die Kolonien jedoch als essentiell für ihre vom Krieg gebeutelte Wirtschaft und bestanden auf den Erhalt der Kolonien.
@@ -24,7 +25,7 @@ Trotzdem war von einem endgültigen Sieg Frankreichs nicht zu sprechen.
 Die französische Armee hatte der Viet Minh zwar Land abgenommen, konnte dieses aber nicht halten.
 Die Dörfer Vietnams wurden von den Guerrilla-Kämpfern der Viet Minh sofort nach Abzug der französischen Soldaten wieder eingenommen.
 Offiziell übernahm in Saigon aber der französische Hohe Komissar für Indochina, Admiral Georges Thierry d'Argenlieu, die Regierungsgeschäfte und hoffte mit dem Einsatz von Vietnamesen in vielen hohen Positionen dem vietnamesischen Nationalbewusstsein zu entsprechen.
-Da jedoch ausschließlich vietnamesische Großgrundbesitzer, Geschäftsleute und Rechtsanwälte neben den Franzosen vertreten waren, bildete die Regierung trotz allem keine nationalistische alternative zu der Viet Minh.
+Da jedoch ausschließlich vietnamesische Großgrundbesitzer, Geschäftsleute und Rechtsanwälte neben den Franzosen vertreten waren, bildete die Regierung trotz allem keine nationalistische Alternative zu der Viet Minh.
 
 Diese hatte im Norden die Hungersnot zunächst besiegt, wurde aber mit neuen Problemen konfrontiert:
 Zeitgleich mit den britischen Truppen im Süden, rückte im Norden die nationalchinesische Armee Tschiang Kai-scheks vor, die das Land rücksischtslos ausbeutete.
@@ -35,9 +36,27 @@ Nachdem aus den USA keinerlei Unterstützung in der Wahrung der Vietnamesischen 
 Im Gegenzug wurde Vietnam durch Frankreich als freier Staat innerhalb der Französischen Union anerkannt.
 Ho begründete die Entscheidung damit, dass er lieber fünf Jahre französischen Mist rieche als für den Rest seines Lebens chinesischen zu essen, allerdings handelte er sich mit dem Abkommen starke Kritik aus den eigenen Reihen ein.
 
-Zumal das Abkommen nicht öang währte.
+Zumal das Abkommen nicht lang währte.
 Ho war noch in Fountainbleau um Einzelheiten der Vereinbarung zu klären, als d'Argenlieu am 2. Juni 1946 einen separaten Staat Cochinchina ausrief.
 Frankreich war im Grunde genommen an einem Bündnis mit der Viet Minh nie interessiert; Vietnam als autonomer Staat kam für sie nicht in Frage.
 Stattdessen wollte man seine Herrschaft wieder etablieren, und das durch zunehmende militärische Unterdrückung vor allem im Norden.
 Am 20 November 1946 hielt ein französisches Patroullienboot chinesische Schmuggler an. Da in der Vereinbarung von Fountainbleau keine genauen Angaben getroffen wurden, welche der beiden Parteien für den Zoll zuständig ist, griff die vietnamesische Miliz ein und verhaftete drei der Franzosen.
-Dies lieferte Frankreich einen Grund die fast dreißig Jahre anhaltenden Kriegshandlungen in Vietnam mit der Bombardierung von Haiphong am 23. November 1946 zu beginnen.
+Dies lieferte Frankreich einen Grund die Hafenstadt Haiphong zu bombardieren, wobei über 6000 Zivilisten ums Leben kamen.
+Aus diesem Konflikt entwickelte sich der sogenannte Indochinakrieg, der 8 Jahre andauern sollte.
+
+### Krieg
+Nachdem am 19. Dezember 1946 d'Argenlieu die Entwaffnung der vietnamesischen Miliz anordnete, gab General Giap noch am selben Abend per Rundfunk eine Kriegserklärung ab.
+Obwohl die Viet Minh zunächst militärisch unterlegen war, da es ihnen an Nachschub und Verbündeten mangelte, hatten sie doch einen entscheidenden Vorteil, der ihnen letztendlich den Sieg bescherte: Soft Power.
+Ho chi Minh und die Viet Minh schafften es eine Identifikationsmöglichkeit für die Mehrheit des vietnamesischen Volks zu bilden, das sich über die Entschlossenheit für seine Unabhängigkeit und Freiheit zu kämpfen verband.
+Während die Viet Minh sich darauf konzentrierte militärisch mehr zu erreichen indem sie sich aus den Städten zurückzogen und stattdessen auf Guerrillaoperationen beschränkten, versuchten die Franzosen eine ihnen genehme politische Alternative zu der Viet Minh aufzubauen.
+Dazu wurde der ehemalige Kaiser Bao Dai reaktiviert, der gemeinsam mit dem französischen Ministerpräsident Vincent Auriol am 8. März 1949 das sogenannte Elysée-Abkommen unterzeichnete.
+Darin versprach Frankreich, gegen wirtschaftliche zugeständnisse, Viet nam die Unabhängigkeit zu gewähren.
+Außen- und Verteidigungspolitik blieben jedoch in den Händen Frankreichs, was einer Unabhängigkeit entgegensprach.
+Zusätzlich konnte die vietnamesische Regierung unter Bao Dai immernoch keine nationalistische Alternative zu der Vit Minh bilden, da nach wie vor lediglich Kräfte vertreten waren, die wirtschaftlichen und politischen Nutzen aus der anhaltenden Verbindung mit Frankreich zogen.
+Bao Dai selber bot für den Großteil der Bevölkerung ebenfalls keine Identifikationsmöglichkeit, da er seinen Hauptwohnsitz in Frankreich hatte und keinerlei Kontakt zu der bäuerlichen Bevölkerung pflegte.
+Mit dem Sieg Mao Tse Tungs über Tschiang Kai-schek in China 1949 änderte die Lage in Vietnam entscheidend.
+Denn diese außenpolitische Entwicklung resultierte in erheblichen Veränderungen in der Indochinapolitk der USA.
+
+### USA in Indochina
+
+Zwischen 1945 und 1950 bewegte sich die amerikanische Indochinapolitik
