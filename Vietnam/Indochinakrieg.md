@@ -1,6 +1,5 @@
-## Indochinakrieg
+## Indochinakrieg - Beginn
 
-### Beginn
 Unter Roosevelts Administration im Zweiten Weltkrieg drängten die USA auf die schrittweise Unabhängigkeit der europäischen Kolonien.
 Die Kolonialmächte Großbritannien, Frankreich und die Niederlande erachteten die Kolonien jedoch als essentiell für ihre vom Krieg gebeutelte Wirtschaft und bestanden auf den Erhalt der Kolonien.
 Um die Kriegskoalition mit den Niederlanden und insbesondere Großbritannien nicht aufs Spiel zusetzen ging Roosevelt jedoch weitreichende Kompromisse ein.
@@ -33,7 +32,7 @@ Im Februar 1946 trafen Tschiang und de Gaulle eine Vereinbarung, nach der die ch
 Ho Chi Minh geriet dadurch in eine sehr defensive Lage und sah die Unabhängigkeit Vietnams endgültig in Gefahr.
 Nachdem aus den USA keinerlei Unterstützung in der Wahrung der Vietnamesischen Unabhängigkeit kam, schloss Ho Chi Minh am 6. März 1946 einen vorläufigen Kompromiß mit Frankreich, der es der Kolonialmacht erlaubte für fünf Jahre 25000 Mann im Norden Vietnams zu stationieren.
 Im Gegenzug wurde Vietnam durch Frankreich als freier Staat innerhalb der Französischen Union anerkannt.
-Ho begründete die Entscheidung damit, dass er lieber fünf Jahre französischen Mist rieche als für den Rest seines Lebens chinesischen zu essen, allerdings handelte er sich mit dem Abkommen starke Kritik aus den eigenen Reihen ein.
+Ho begründete die Entscheidung damit, dass er lieber 5 Jahre französischen Mist rieche als für den Rest seines Lebens chinesischen zu essen, allerdings handelte er sich mit dem Abkommen starke Kritik aus den eigenen Reihen ein.
 
 Zumal das Abkommen nicht lang währte.
 Ho war noch in Fountainbleau um Einzelheiten der Vereinbarung zu klären, als d'Argenlieu am 2. Juni 1946 einen separaten Staat Cochinchina ausrief.
@@ -43,7 +42,9 @@ Am 20 November 1946 hielt ein französisches Patroullienboot chinesische Schmugg
 Dies lieferte Frankreich einen Grund die Hafenstadt Haiphong zu bombardieren, wobei über 6000 Zivilisten ums Leben kamen.
 Aus diesem Konflikt entwickelte sich der sogenannte Indochinakrieg, der 8 Jahre andauern sollte.
 
-### Krieg Frankreich-Viet Minh
+
+## Indochinakrieg - Frankreichs Krieg
+
 Nachdem am 19. Dezember 1946 d'Argenlieu die Entwaffnung der vietnamesischen Miliz anordnete, gab General Giap noch am selben Abend per Rundfunk eine Kriegserklärung ab.
 Obwohl die Viet Minh zunächst militärisch unterlegen war, da es ihnen an Nachschub und Verbündeten mangelte, hatten sie doch einen entscheidenden Vorteil, der ihnen letztendlich den Sieg bescherte: Soft Power.
 Ho chi Minh und die Viet Minh schafften es eine Identifikationsmöglichkeit für die Mehrheit des vietnamesischen Volks zu bilden, das sich über die Entschlossenheit für seine Unabhängigkeit und Freiheit zu kämpfen verband.
@@ -56,7 +57,7 @@ Bao Dai selber bot für den Großteil der Bevölkerung ebenfalls keine Identifik
 Mit dem Sieg Mao Tse Tungs über Tschiang Kai-schek in China 1949 änderte die Lage in Vietnam entscheidend.
 Denn diese außenpolitische Entwicklung resultierte in erheblichen Veränderungen in der Indochinapolitk der USA.
 
-### USA im Indochinakrieg
+### Indochinakrieg - USA
 
 #### Gründe
 Zwischen 1945 und 1950 bewegte sich die amerikanische Indochinapolitik von einer Frankreich zuneigenden Neutralität hin zu einer aktiven Unterstützung der Franzosen im Kampf gegen die Viet Minh.
