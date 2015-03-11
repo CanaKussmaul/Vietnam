@@ -1,7 +1,6 @@
 ## Indochinakrieg
 
 ### Beginn
-
 Unter Roosevelts Administration im Zweiten Weltkrieg drängten die USA auf die schrittweise Unabhängigkeit der europäischen Kolonien.
 Die Kolonialmächte Großbritannien, Frankreich und die Niederlande erachteten die Kolonien jedoch als essentiell für ihre vom Krieg gebeutelte Wirtschaft und bestanden auf den Erhalt der Kolonien.
 Um die Kriegskoalition mit den Niederlanden und insbesondere Großbritannien nicht aufs Spiel zusetzen ging Roosevelt jedoch weitreichende Kompromisse ein.
@@ -44,7 +43,7 @@ Am 20 November 1946 hielt ein französisches Patroullienboot chinesische Schmugg
 Dies lieferte Frankreich einen Grund die Hafenstadt Haiphong zu bombardieren, wobei über 6000 Zivilisten ums Leben kamen.
 Aus diesem Konflikt entwickelte sich der sogenannte Indochinakrieg, der 8 Jahre andauern sollte.
 
-### Krieg
+### Krieg Frankreich-Viet Minh
 Nachdem am 19. Dezember 1946 d'Argenlieu die Entwaffnung der vietnamesischen Miliz anordnete, gab General Giap noch am selben Abend per Rundfunk eine Kriegserklärung ab.
 Obwohl die Viet Minh zunächst militärisch unterlegen war, da es ihnen an Nachschub und Verbündeten mangelte, hatten sie doch einen entscheidenden Vorteil, der ihnen letztendlich den Sieg bescherte: Soft Power.
 Ho chi Minh und die Viet Minh schafften es eine Identifikationsmöglichkeit für die Mehrheit des vietnamesischen Volks zu bilden, das sich über die Entschlossenheit für seine Unabhängigkeit und Freiheit zu kämpfen verband.
@@ -57,6 +56,15 @@ Bao Dai selber bot für den Großteil der Bevölkerung ebenfalls keine Identifik
 Mit dem Sieg Mao Tse Tungs über Tschiang Kai-schek in China 1949 änderte die Lage in Vietnam entscheidend.
 Denn diese außenpolitische Entwicklung resultierte in erheblichen Veränderungen in der Indochinapolitk der USA.
 
-### USA in Indochina
+### USA im Indochinakrieg
 
-Zwischen 1945 und 1950 bewegte sich die amerikanische Indochinapolitik
+#### Gründe
+Zwischen 1945 und 1950 bewegte sich die amerikanische Indochinapolitik von einer Frankreich zuneigenden Neutralität hin zu einer aktiven Unterstützung der Franzosen im Kampf gegen die Viet Minh.
+Die Ursachen für diesen Wandel sind vielfältig: Antikommunistische Tradition, innenpolitische Entwicklungen, außenpolitische Ereignisse und Veränderungen im internationalen Staatensystem, wirtschaftliche Einschätzungen und strategische Erwägungen.
+Sie trugen zu einer Weltsicht bei, die sehr stark von  kommunistischen Bedrohungsvorstellungen geprägt war
+
+Man wollte die Übernahme des Kommunismus in noch einem Land nicht riskieren; als im Januar 1950 dann die Volksrepublik China und die Sowjetunion die Viet Minh als legitime Regierung Vietnams anerkannte, war das für die US-Amerikanische Regieung, die unter großem Druck aus den eigenen Reihen stand, ein eindeutiges Indiz dafür, dass die chinesischen, sowjetischen und vietnamesischen Kommunisten zusammen arbeiteten
+
+Nachdem im Januar 1950 die Sowjetunion und die Volksrepublik China und die Sowjetunion die Viet Minh als legitime Regierung Vietnams anerkannten, folgte am 7 Februar 1950 die Anerkennung des Bao Dai Regimes und des Staates von Vietnam als unabhängiges Land in der Französischen Union durch die USA und Großbritannien.
+Damit entstanden neben der französischen Kolonialverwaltung, die durch die Anerkennung des Bao Dais ebenfalls legitimiert wurde, zwei jeweils vom Osten oder Westen legitimierte Regierungen, die miteinander um die Herrschaft über ganz Vietnam konkurrierten.
+Von diesem Zeitpunkt an, unterstützten die USA Frankreich nicht nur ideologisch, sondern überwiesen noch im selben Jahr $ 15 Millionen Militärhlife nach Paris und wurden Hauptfinanzgeber des Kriegs in Vietnam.
