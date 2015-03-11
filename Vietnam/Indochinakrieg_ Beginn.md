@@ -32,7 +32,7 @@ Im Februar 1946 trafen Tschiang und de Gaulle eine Vereinbarung, nach der die ch
 Ho Chi Minh geriet dadurch in eine sehr defensive Lage und sah die Unabhängigkeit Vietnams endgültig in Gefahr.
 Nachdem aus den USA keinerlei Unterstützung in der Wahrung der Vietnamesischen Unabhängigkeit kam, schloss Ho Chi Minh am 6. März 1946 einen vorläufigen Kompromiß mit Frankreich, der es der Kolonialmacht erlaubte für fünf Jahre 25000 Mann im Norden Vietnams zu stationieren.
 Im Gegenzug wurde Vietnam durch Frankreich als freier Staat innerhalb der Französischen Union anerkannt.
-Ho begründete die Entscheidung damit, dass er lieber fünf Jahre französischen Mist rieche als für den Rest seines Lebens chinesischen zu essen, allerdings handelte er sich mit dem Abkommen starke Kritik aus den eigenen Reihen ein.
+Ho begründete die Entscheidung damit, dass er lieber 5 Jahre französischen Mist rieche als für den Rest seines Lebens chinesischen zu essen, allerdings handelte er sich mit dem Abkommen starke Kritik aus den eigenen Reihen ein.
 
 Zumal das Abkommen nicht lang währte.
 Ho war noch in Fountainbleau um Einzelheiten der Vereinbarung zu klären, als d'Argenlieu am 2. Juni 1946 einen separaten Staat Cochinchina ausrief.
