@@ -1,4 +1,4 @@
-##Französische Kolonialherrschaft
+## Französische Kolonialherrschaft
 
 Um das Entstehen des Vietnamkriegs nachvollziehen zu können, muss man bis in die Mitte des 19. Jahrhunderts zurückgreifen.
 Zu dieser Zeit waren katholische Missionare aus Europa sehr aktiv im östlichen Asien, mit der Mission, die konfuzianischen Gesellschaften zum Katholizismus zu bekehren.
