@@ -65,8 +65,8 @@ Die Buddhistische Bevölkerung hatte zu Ehren ihres Religionsstifters Flaggen au
 Generell war das Zurschaustellen von Flaggen in südvietnam verboten, und dieses Mal entschloss sich Diem dieses Verbot mit aller Härte durchzusetzen: Bei den gewaltsamen Auseinandersetzungen kamen neun Menschen ums Leben.
 Es folgten Proteste der Buddhisten, gemeinsam mit Studenten, die wiederum gewaltsam niedergeschlagen wurden.
 Daraufhin sah man in Washington den Moment gekommen, energischen Druck auf Diem auszuüben.
-Im August 1961 wurde Henry Cabot Lodge mit der Aufgabe betraut, eine Alternative zu Diem zu suchen und autorisiert von Diem die Absetzung seines Bruders zu verlangen und im Falle einer Ablehnung den putschwilligen Generälen seine Unterstützung zusichern.
-Als diese im Herbst 1961 erneut anfragen ließen, wie die Haltung der Regierung gegenüber eines Putschs wäre, konnte die zutiefst gespaltene Kennedy-Administration darauf keine konkrete Antwort geben, was aber faktisch als Startsignal galt, da somit die Angelegenheit dem diem-Kritiker Lodge überlassen.
+Im August 1963 wurde Henry Cabot Lodge mit der Aufgabe betraut, eine Alternative zu Diem zu suchen und autorisiert von Diem die Absetzung seines Bruders zu verlangen und im Falle einer Ablehnung den putschwilligen Generälen seine Unterstützung zusichern.
+Als diese im Herbst 1963 erneut anfragen ließen, wie die Haltung der Regierung gegenüber eines Putschs wäre, konnte die zutiefst gespaltene Kennedy-Administration darauf keine konkrete Antwort geben, was aber faktisch als Startsignal galt, da somit die Angelegenheit dem diem-Kritiker Lodge überlassen.
 Am 1. November wurde der Präsidentenpalast von Putschisten umstellt.
 Als Diem mit Lodge telefonierte, verlangte er freies Geleit für sich und seinen Bruder, Lodge gab jedoch vor, dich nicht einmischen zukönnen, womit das Schicksal der Brüder besiegelt war:
 Sie wurden nach einer kurzen Flucht von Suchtrupps aufgesürt, getötet und verstümmelt.
@@ -74,4 +74,4 @@ In Saigon feierten Menschen auf der Straße und stürtzten Statuen Diems um, die
 Auch in Washington waren die Reaktionen gespalten; während einige seiner Berater den Tod der Ngo's als bedauerliche Begleiterscheinung des Putsches sahen, der das Problem auf endgültige Weise gelöst hatte, war der Präsident selbst tief betroffen.
 Er betrachtete Vietnam als seine größte außenpolitische Niederlage und richtete kurz vor seinem Tod eine Bitte an seinen Berater Mike Forrestal.
 Er sollte alle Optionen untersuchen, die die UsA in Vietnam haben, inklusive der Frage wie sie dort auskommen würden.
-Nur drei Wochen nach dem Putsch, am 21.11.1961, fiel Kennedy selber einem Attentat zum Opfer.
+Nur drei Wochen nach dem Putsch, am 21.11.1963, fiel Kennedy selber einem Attentat zum Opfer.
